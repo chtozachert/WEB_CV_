@@ -1,0 +1,68 @@
+body {
+    background: url(background2.jpg); ;
+    color: #fff;
+
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+.avatar {
+    width: 500px;
+    border-radius: 56px;
+    
+}
+.info p {
+    color: #fff;
+    margin: 0;
+    font-weight:bold ;
+}
+.info {
+    display: flex;
+}
+.info-text {
+    margin-left: 40px;
+    
+}
+
+.social {
+    background-color: 
+    padding: 15px;
+
+}
+.container {
+    max-width: 75%;
+    margin: auto;
+    padding-top: 30px;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.bg-1 {
+    background-color: #d6ffff56 ;
+}
+.bg-2 {
+
+	background-color: #d6ffff56 ;
+}
+
+.contact h2{
+    text-align: center;
+}
+.form-group label {
+    display: block;
+}
